@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\csahu\\source\\repos\\sampleapp\\sampleapp\\sampleapp.csproj": {}
+    "C:\\Users\\csahu\\source\\repos\\sample\\sampleapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\csahu\\source\\repos\\sampleapp\\sampleapp\\sampleapp.csproj": {
+    "C:\\Users\\csahu\\source\\repos\\sample\\sampleapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\csahu\\source\\repos\\sampleapp\\sampleapp\\sampleapp.csproj",
+        "projectUniqueName": "C:\\Users\\csahu\\source\\repos\\sample\\sampleapp.csproj",
         "projectName": "sampleapp",
-        "projectPath": "C:\\Users\\csahu\\source\\repos\\sampleapp\\sampleapp\\sampleapp.csproj",
+        "projectPath": "C:\\Users\\csahu\\source\\repos\\sample\\sampleapp.csproj",
         "packagesPath": "C:\\Users\\csahu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\csahu\\source\\repos\\sampleapp\\sampleapp\\obj\\",
+        "outputPath": "C:\\Users\\csahu\\source\\repos\\sample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

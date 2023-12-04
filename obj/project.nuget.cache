@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JGwB995atCGm/1Rf7bdo0gaX3+Zj8eVqzCb970nIXm3RFIHCc0erZ/mu2UKxRSrHYGAi/3ertd6QB6Ve8PkMxA==",
+  "dgSpecHash": "7GGlflI8PVQ+pHVQLXvS2luuyUZ+AtPqfuMyAcW+9fOTxKwV3hGUxJtDDQb0/4m+EHlFK6jDkXxsiROpj7HAJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\csahu\\source\\repos\\sampleapp\\sampleapp\\sampleapp.csproj",
+  "projectFilePath": "C:\\Users\\csahu\\source\\repos\\sample\\sampleapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
